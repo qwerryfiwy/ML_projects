@@ -15,9 +15,9 @@
 
 <div align="center">
   
-  [![GitHub Stars](https://img.shields.io/github/stars/qwerryfiwy/mnist-neural-network?style=social)](https://github.com/qwerryfiwy/mnist-neural-network/stargazers)
-  [![GitHub Forks](https://img.shields.io/github/forks/qwerryfiwy/mnist-neural-network?style=social)](https://github.com/qwerryfiwy/mnist-neural-network/network/members)
-  [![GitHub Issues](https://img.shields.io/github/issues/qwerryfiwy/mnist-neural-network)](https://github.com/qwerryfiwy/mnist-neural-network/issues)
+  [![GitHub Stars](https://img.shields.io/github/stars/qwerryfiwy/ML_projects/edit/main/mnist?style=social)](https://github.com/qwerryfiwy/qwerryfiwy/ML_projects/edit/main/mnist/stargazers)
+  [![GitHub Forks](https://img.shields.io/github/forks/qwerryfiwy/ML_projects/edit/main/mnist?style=social)](https://github.com/qwerryfiwy/ML_projects/edit/main/mnist/network/members)
+  [![GitHub Issues](https://img.shields.io/github/issues/qwerryfiwy/ML_projects/edit/main/mnist)](https://github.com/qwerryfiwy/ML_projects/edit/main/mnist/issues)
   
 </div>
 
@@ -49,11 +49,12 @@ This project demonstrates a comprehensive approach to handwritten digit recognit
 
 The **MNIST dataset** contains 70,000 grayscale images of handwritten digits (0-9):
 
-MNIST Dataset Overview
+MNIST Dataset Overview<br>
 ├── 🏋️ Training Set: 60,000 images<br>
-├── 🧪 Test Set: 10,000 images ├── 📐 Image Size: 28×28 pixels ├── 🎨 Color: Grayscale (0-255) <br>
+├── 🧪 Test Set: 10,000 images<br> 
+├── 📐 Image Size: 28×28 pixels <br>
+├── 🎨 Color: Grayscale (0-255) <br>
 └── 🏷️ Classes: 10 digits (0-9)<br>
-
 
 <details>
 <summary><b> Dataset Statistics</b></summary>
@@ -130,24 +131,24 @@ Input Layer (784) → Hidden Layer 1 (128) → Hidden Layer 2 (64) → Output La
 </div>
 
 ### 📊 **Training Progress**
-🔄 Training Configuration:
-├── 📚 Epochs: 1000
-├── 📈 Learning Rate: 0.1
-└── ⚡ Implementation: Vectorized NumPy
+🔄 Training Configuration:<br>
+├── 📚 Epochs: 1000<br>
+├── 📈 Learning Rate: 0.1 <br>
+└── ⚡ Implementation: Vectorized NumPy<br>
 
-📈 Training Results:
-Epoch Cost Accuracy Progress
-─────────────────────────────────────────
-0 2.3896 ~10% ██░░░░░░░░
-100 0.3730 ~85% ██████░░░░
-200 0.2893 ~88% ███████░░░
-300 0.2514 ~90% ████████░░
-400 0.2261 ~92% █████████░
-500 0.2070 ~93% █████████░
-600 0.1919 ~94% ██████████
-700 0.1792 ~94.5% ██████████
-800 0.1681 ~95% ██████████
-900 0.1585 ~95.4% ██████████
+📈 Training Results:<br>
+Epoch Cost Accuracy Progress<br>
+─────────────────────────────────────────<br>
+0 2.3896 ~10% ██░░░░░░░░<br>
+100 0.3730 ~85% ██████░░░░<br>
+200 0.2893 ~88% ███████░░░<br>
+300 0.2514 ~90% ████████░░<br>
+400 0.2261 ~92% █████████░<br>
+500 0.2070 ~93% █████████░<br>
+600 0.1919 ~94% ██████████<br>
+700 0.1792 ~94.5% ██████████<br>
+800 0.1681 ~95% ██████████<br>
+900 0.1585 ~95.4% ██████████<br>
 
 ### 📉 **Cost Reduction**
 The model shows excellent convergence with cost decreasing from **2.3896** to **0.1585** over 1000 epochs.
