@@ -30,16 +30,10 @@
 - [🏗️ Architecture](#%EF%B8%8F-architecture)
 - [⚡ Features](#-features)
 - [📈 Results](#-results)
-- [📁 Project Structure](#-project-structure)
-- [💻 Usage](#-usage)
-- [🔬 Technical Details](#-technical-details)
-- [🎯 Performance](#-performance)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
 
 ---
 
-## 🌟 Overview
+##  Overview
 
 This project demonstrates a comprehensive approach to handwritten digit recognition using the famous MNIST dataset. It showcases both **custom neural network implementation from scratch** using pure NumPy and modern implementations using TensorFlow/Keras.
 
@@ -51,7 +45,7 @@ This project demonstrates a comprehensive approach to handwritten digit recognit
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The **MNIST dataset** contains 70,000 grayscale images of handwritten digits (0-9):
 
@@ -62,7 +56,7 @@ MNIST Dataset Overview
 
 
 <details>
-<summary><b>📊 Dataset Statistics</b></summary>
+<summary><b> Dataset Statistics</b></summary>
 
 | Metric | Value |
 |--------|-------|
@@ -93,7 +87,7 @@ Input Layer (784) → Hidden Layer 1 (128) → Hidden Layer 2 (64) → Output La
 
 </div>
 
-### ⚙️ Technical Specifications
+###  Technical Specifications
 
 - **🔄 Activation Functions:** ReLU (hidden), Softmax (output)
 - **📉 Loss Function:** Cross-entropy loss
@@ -103,7 +97,7 @@ Input Layer (784) → Hidden Layer 1 (128) → Hidden Layer 2 (64) → Output La
 
 ---
 
-## ⚡ Features
+## Features
 
 ### 🔍 **Data Analysis & Visualization**
 - [x] Sample digit visualization (5×5 grid)
@@ -127,7 +121,7 @@ Input Layer (784) → Hidden Layer 1 (128) → Hidden Layer 2 (64) → Output La
 
 ---
 
-## 📈 Results
+## Results
 
 ### 🏆 **Model Performance**
 
