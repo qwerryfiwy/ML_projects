@@ -13,14 +13,6 @@
   <p><em>A comprehensive approach to digit classification with both custom and modern implementations</em></p>
 </div>
 
-<div align="center">
-  
-  [![GitHub Stars](https://img.shields.io/github/stars/qwerryfiwy/ML_projects/edit/main/mnist?style=social)](https://github.com/qwerryfiwy/qwerryfiwy/ML_projects/edit/main/mnist/stargazers)
-  [![GitHub Forks](https://img.shields.io/github/forks/qwerryfiwy/ML_projects/edit/main/mnist?style=social)](https://github.com/qwerryfiwy/ML_projects/edit/main/mnist/network/members)
-  [![GitHub Issues](https://img.shields.io/github/issues/qwerryfiwy/ML_projects/edit/main/mnist)](https://github.com/qwerryfiwy/ML_projects/edit/main/mnist/issues)
-  
-</div>
-
 ---
 
 ## 📋 Table of Contents
