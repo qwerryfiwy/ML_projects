@@ -15,9 +15,9 @@
 
 <div align="center">
   
-  [![GitHub Stars](https://img.shields.io/github/stars/yourusername/mnist-neural-network?style=social)](https://github.com/yourusername/mnist-neural-network/stargazers)
-  [![GitHub Forks](https://img.shields.io/github/forks/yourusername/mnist-neural-network?style=social)](https://github.com/yourusername/mnist-neural-network/network/members)
-  [![GitHub Issues](https://img.shields.io/github/issues/yourusername/mnist-neural-network)](https://github.com/yourusername/mnist-neural-network/issues)
+  [![GitHub Stars](https://img.shields.io/github/stars/qwerryfiwy/mnist-neural-network?style=social)](https://github.com/qwerryfiwy/mnist-neural-network/stargazers)
+  [![GitHub Forks](https://img.shields.io/github/forks/qwerryfiwy/mnist-neural-network?style=social)](https://github.com/qwerryfiwy/mnist-neural-network/network/members)
+  [![GitHub Issues](https://img.shields.io/github/issues/qwerryfiwy/mnist-neural-network)](https://github.com/qwerryfiwy/mnist-neural-network/issues)
   
 </div>
 
@@ -50,9 +50,9 @@ This project demonstrates a comprehensive approach to handwritten digit recognit
 The **MNIST dataset** contains 70,000 grayscale images of handwritten digits (0-9):
 
 MNIST Dataset Overview
-├── 🏋️ Training Set: 60,000 images
-├── 🧪 Test Set: 10,000 images ├── 📐 Image Size: 28×28 pixels ├── 🎨 Color: Grayscale (0-255) 
-└── 🏷️ Classes: 10 digits (0-9)
+├── 🏋️ Training Set: 60,000 images<br>
+├── 🧪 Test Set: 10,000 images ├── 📐 Image Size: 28×28 pixels ├── 🎨 Color: Grayscale (0-255) <br>
+└── 🏷️ Classes: 10 digits (0-9)<br>
 
 
 <details>
